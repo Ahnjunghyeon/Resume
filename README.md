@@ -17,9 +17,10 @@
 * PC 게임   
 * 노래방
 
----------------
+---
 
 자격증
-|자격증 이름|내용|
+|자격증이름|내용|
+|---|---|
 |MOS 2010|Excel,Access,word,PowerPoint|
 |포토샵|PhotoShop cc|
