@@ -18,5 +18,5 @@
 * 노래방
 
 자격증
-|MOS 2010| -> |Excel|Access|word|PowerPoint|
-|PhotoShop|
+|MOS 2010|Excel|Access|word|PowerPoint||5|
+|PhotoShop||1|
